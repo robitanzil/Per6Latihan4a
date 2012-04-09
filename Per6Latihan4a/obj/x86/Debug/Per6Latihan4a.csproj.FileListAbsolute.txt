@@ -1,0 +1,5 @@
+C:\Users\Robi Tanzil Ganefi\AppData\Local\Temporary Projects\Per6Latihan4a\bin\Debug\Per6Latihan4a.exe
+C:\Users\Robi Tanzil Ganefi\AppData\Local\Temporary Projects\Per6Latihan4a\bin\Debug\Per6Latihan4a.pdb
+C:\Users\Robi Tanzil Ganefi\AppData\Local\Temporary Projects\Per6Latihan4a\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robi Tanzil Ganefi\AppData\Local\Temporary Projects\Per6Latihan4a\obj\x86\Debug\Per6Latihan4a.exe
+C:\Users\Robi Tanzil Ganefi\AppData\Local\Temporary Projects\Per6Latihan4a\obj\x86\Debug\Per6Latihan4a.pdb
